@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Project-specific generated outputs and states
+phase1_ingestion/ingestion_state.json
+phase1_ingestion/output/
+phase2_agents/output/
+
+# Logs and local configurations
+*.log
+.env
+.env.local

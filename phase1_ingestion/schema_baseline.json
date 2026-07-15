@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "source": "str",
+    "api_version": "str",
+    "exported_at": "str",
+    "page": "int",
+    "total_pages": "int",
+    "record_count": "int"
+  },
+  "clauses": [
+    "list",
+    {
+      "clause_id": "str",
+      "contract_id": "str",
+      "client_name": "str",
+      "project_name": "str",
+      "clause_type": "str",
+      "clause_text": "str",
+      "section_ref": "str",
+      "effective_date": "str",
+      "expiration_date": "str",
+      "status": "str",
+      "last_modified": "str",
+      "modified_by": "str"
+    }
+  ]
+}
