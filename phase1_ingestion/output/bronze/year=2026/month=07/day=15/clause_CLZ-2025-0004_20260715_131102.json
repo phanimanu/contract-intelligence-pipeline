@@ -1,0 +1,18 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.552735",
+  "source_file": "clauses_batch_1.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0004",
+    "contract_id": "CTR-4422",
+    "client_name": "Northern State University",
+    "project_name": "NSU Science Complex Phase II",
+    "clause_type": "payment_terms",
+    "clause_text": "Payment shall be made within sixty (60) days of receipt of a properly submitted invoice. The Owner reserves the right to withhold payment pending resolution of any disputes regarding the quality or completeness of the Work.",
+    "section_ref": "Section 5.1",
+    "effective_date": "2025-06-15",
+    "expiration_date": "2029-06-14",
+    "status": "active",
+    "last_modified": "2025-08-10T14:30:00Z",
+    "modified_by": "finance_ops"
+  }
+}

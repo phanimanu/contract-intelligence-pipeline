@@ -1,0 +1,18 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.552735",
+  "source_file": "clauses_batch_1.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0005",
+    "contract_id": "CTR-4422",
+    "client_name": "Northern State University",
+    "project_name": "NSU Science Complex Phase II",
+    "clause_type": "termination",
+    "clause_text": "The Owner may terminate this Agreement for convenience upon fourteen (14) days written notice. Upon termination, the Consultant shall be compensated for services satisfactorily performed through the termination date, with no additional compensation for lost profits or anticipated fees.",
+    "section_ref": "Section 12.2",
+    "effective_date": "2025-06-15",
+    "expiration_date": "2029-06-14",
+    "status": "active",
+    "last_modified": "2025-07-01T10:00:00Z",
+    "modified_by": "legal_team"
+  }
+}

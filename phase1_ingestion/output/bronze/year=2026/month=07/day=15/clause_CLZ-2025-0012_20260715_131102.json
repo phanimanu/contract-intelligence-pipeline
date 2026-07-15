@@ -1,0 +1,18 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.552735",
+  "source_file": "clauses_batch_1.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0012",
+    "contract_id": "CTR-4445",
+    "client_name": "Apex Federal Solutions",
+    "project_name": "Apex Secure Operations Facility",
+    "clause_type": "security_clearance",
+    "clause_text": "All personnel assigned to this project shall possess or obtain a minimum Secret-level security clearance prior to accessing project facilities or Controlled Unclassified Information (CUI). The Consultant shall comply with all applicable NIST SP 800-171 requirements for handling CUI.",
+    "section_ref": "Section 14.1",
+    "effective_date": "2025-11-01",
+    "expiration_date": "2030-10-31",
+    "status": "draft",
+    "last_modified": "2025-11-10T13:00:00Z",
+    "modified_by": "security_compliance"
+  }
+}

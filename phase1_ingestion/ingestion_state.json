@@ -1,0 +1,36 @@
+{
+  "clauses_batch_1.json": {
+    "file_path": "C:\\projects\\contract-intelligence-pipeline\\data\\clauses_batch_1.json",
+    "status": "completed",
+    "processed_clause_ids": [
+      "CLZ-2025-0001",
+      "CLZ-2025-0002",
+      "CLZ-2025-0003",
+      "CLZ-2025-0004",
+      "CLZ-2025-0005",
+      "CLZ-2025-0006",
+      "CLZ-2025-0007",
+      "CLZ-2025-0008",
+      "CLZ-2025-0009",
+      "CLZ-2025-0010",
+      "CLZ-2025-0011",
+      "CLZ-2025-0012"
+    ],
+    "last_updated": "2026-07-15T13:11:02.576168"
+  },
+  "clauses_batch_2.json": {
+    "file_path": "C:\\projects\\contract-intelligence-pipeline\\data\\clauses_batch_2.json",
+    "status": "completed",
+    "processed_clause_ids": [
+      "CLZ-2025-0013",
+      "CLZ-2025-0014",
+      "CLZ-2025-0015",
+      "CLZ-2025-0016",
+      "CLZ-2025-0017",
+      "CLZ-2025-0018",
+      "CLZ-2025-0019",
+      "CLZ-2025-0020"
+    ],
+    "last_updated": "2026-07-15T13:11:02.598488"
+  }
+}

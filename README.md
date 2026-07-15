@@ -1,6 +1,6 @@
 # Contract Intelligence Pipeline: Developer Guide
 
-This repository contains a production-grade, highly durable Contract Intelligence Pipeline developed for a fictional Architecture & Engineering (A/E) firm. The pipeline automates the ingestion of contract clause data, detects schema drift across API versions, classifies clauses, flags unfavourable/uninsurable language, and tracks operational audits.
+This repository contains a durable Contract Intelligence Pipeline developed for a fictional Architecture & Engineering (A/E) firm. The pipeline automates the ingestion of contract clause data, detects schema drift across API versions, classifies clauses, flags unfavourable/uninsurable language, and tracks operational audits.
 
 ---
 

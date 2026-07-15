@@ -1,0 +1,22 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.579926",
+  "source_file": "clauses_batch_2.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0015",
+    "contract_id": "CTR-4452",
+    "client_name": "Greenfield Municipal Schools",
+    "project_name": "Greenfield K-8 STEM Academy",
+    "category": "termination",
+    "clause_text": "Either party may terminate this Agreement for cause upon thirty (30) days written notice if the other party fails to cure a material breach within the notice period. The Owner may terminate for convenience upon twenty-one (21) days notice with compensation for completed work plus reasonable demobilization costs.",
+    "section_ref": "Section 11.1",
+    "effective_date": "2025-12-01",
+    "expiration_date": "2028-11-30",
+    "status": "active",
+    "last_modified": "2025-12-01T09:00:00Z",
+    "review_history": {
+      "reviews": [],
+      "review_count": 0,
+      "last_review_date": null
+    }
+  }
+}

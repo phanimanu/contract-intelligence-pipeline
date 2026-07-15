@@ -1,0 +1,22 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.579926",
+  "source_file": "clauses_batch_2.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0016",
+    "contract_id": "CTR-4452",
+    "client_name": "Greenfield Municipal Schools",
+    "project_name": "Greenfield K-8 STEM Academy",
+    "category": "insurance",
+    "clause_text": "The Consultant shall maintain Professional Liability Insurance with minimum coverage of $2,000,000 per claim and $4,000,000 aggregate. Workers' Compensation Insurance as required by state law. Commercial General Liability of $1,000,000 per occurrence.",
+    "section_ref": "Section 9.1",
+    "effective_date": "2025-12-01",
+    "expiration_date": "2028-11-30",
+    "status": "active",
+    "last_modified": "2025-12-01T09:00:00Z",
+    "review_history": {
+      "reviews": [],
+      "review_count": 0,
+      "last_review_date": null
+    }
+  }
+}

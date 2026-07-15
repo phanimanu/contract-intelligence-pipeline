@@ -1,0 +1,22 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.579926",
+  "source_file": "clauses_batch_2.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0020",
+    "contract_id": "CTR-4460",
+    "client_name": "Lakeshore Regional Medical Center",
+    "project_name": "LRMC Emergency Department Renovation",
+    "category": "payment_terms",
+    "clause_text": "The Owner shall make payment within thirty (30) days of receipt of a properly submitted invoice. No retainage shall be withheld. Late payments shall accrue interest at a rate of 1.5% per month.",
+    "section_ref": "Section 4.1",
+    "effective_date": "2026-01-15",
+    "expiration_date": "2028-12-31",
+    "status": "draft",
+    "last_modified": "2025-12-01T10:00:00Z",
+    "review_history": {
+      "reviews": [],
+      "review_count": 0,
+      "last_review_date": null
+    }
+  }
+}

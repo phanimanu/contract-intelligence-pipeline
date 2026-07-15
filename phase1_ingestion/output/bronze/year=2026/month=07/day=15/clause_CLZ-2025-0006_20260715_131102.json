@@ -1,0 +1,18 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.552735",
+  "source_file": "clauses_batch_1.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0006",
+    "contract_id": "CTR-4422",
+    "client_name": "Northern State University",
+    "project_name": "NSU Science Complex Phase II",
+    "clause_type": "scope_of_work",
+    "clause_text": "The Consultant shall provide complete architectural and engineering design services including but not limited to schematic design, design development, construction documents, and construction administration for the 120,000 GSF laboratory and classroom facility.",
+    "section_ref": "Section 2.1",
+    "effective_date": "2025-06-15",
+    "expiration_date": "2029-06-14",
+    "status": "active",
+    "last_modified": "2025-06-15T08:00:00Z",
+    "modified_by": "project_management"
+  }
+}

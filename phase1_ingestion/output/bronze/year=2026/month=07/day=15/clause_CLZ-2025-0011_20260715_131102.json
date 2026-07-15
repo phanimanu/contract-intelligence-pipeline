@@ -1,0 +1,18 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.552735",
+  "source_file": "clauses_batch_1.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0011",
+    "contract_id": "CTR-4445",
+    "client_name": "Apex Federal Solutions",
+    "project_name": "Apex Secure Operations Facility",
+    "clause_type": "payment_terms",
+    "clause_text": "Payment shall be made within thirty (30) days of receipt of a properly submitted invoice conforming to Federal Acquisition Regulation (FAR) requirements. Interest on late payments shall accrue at the rate established by the Prompt Payment Act.",
+    "section_ref": "Section 4.2",
+    "effective_date": "2025-11-01",
+    "expiration_date": "2030-10-31",
+    "status": "draft",
+    "last_modified": "2025-11-10T13:00:00Z",
+    "modified_by": "finance_ops"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.579926",
+  "source_file": "clauses_batch_2.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0013",
+    "contract_id": "CTR-4401",
+    "client_name": "Meridian Health System",
+    "project_name": "Meridian West Tower Expansion",
+    "category": "indemnification",
+    "clause_text": "The Consultant's indemnification obligations under this Agreement shall be limited to claims arising from the Consultant's negligent acts, errors, or omissions. The Consultant shall have no obligation to indemnify the Owner for claims arising from the Owner's negligence or the negligence of other parties.",
+    "section_ref": "Section 8.1 (Amended)",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2028-08-31",
+    "status": "active",
+    "last_modified": "2025-11-28T15:30:00Z",
+    "review_history": {
+      "reviews": [
+        {
+          "reviewer": "J. Martinez",
+          "date": "2025-11-20",
+          "action": "flagged",
+          "notes": "Original clause contained broad indemnification \u00e2\u20ac\u201d revised to negligence standard"
+        },
+        {
+          "reviewer": "K. Chen",
+          "date": "2025-11-28",
+          "action": "approved",
+          "notes": "Revised language acceptable"
+        }
+      ],
+      "review_count": 2,
+      "last_review_date": "2025-11-28"
+    }
+  }
+}

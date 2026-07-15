@@ -1,0 +1,18 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.552735",
+  "source_file": "clauses_batch_1.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0010",
+    "contract_id": "CTR-4445",
+    "client_name": "Apex Federal Solutions",
+    "project_name": "Apex Secure Operations Facility",
+    "clause_type": "indemnification",
+    "clause_text": "The Consultant shall defend, indemnify, and hold harmless the Owner and the Federal Government from and against any and all claims, damages, and expenses, including attorney's fees, arising from the Consultant's performance of services, to the fullest extent permitted by law.",
+    "section_ref": "Section 10.1",
+    "effective_date": "2025-11-01",
+    "expiration_date": "2030-10-31",
+    "status": "draft",
+    "last_modified": "2025-11-10T13:00:00Z",
+    "modified_by": "legal_team"
+  }
+}

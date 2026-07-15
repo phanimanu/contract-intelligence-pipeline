@@ -1,0 +1,29 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.579926",
+  "source_file": "clauses_batch_2.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0017",
+    "contract_id": "CTR-4438",
+    "client_name": "DataVault Technologies",
+    "project_name": "DV Southeast Data Center Campus",
+    "category": "scope_of_work",
+    "clause_text": "The Consultant shall provide full MEP engineering design services for the 250,000 SF Tier IV data center facility, including redundant power distribution (2N), precision cooling systems, fire suppression, and building management system integration. Design shall comply with Uptime Institute Tier IV requirements.",
+    "section_ref": "Section 2.1 (Amended)",
+    "effective_date": "2025-10-01",
+    "expiration_date": "2028-09-30",
+    "status": "active",
+    "last_modified": "2025-11-25T11:20:00Z",
+    "review_history": {
+      "reviews": [
+        {
+          "reviewer": "R. Patel",
+          "date": "2025-11-22",
+          "action": "expanded",
+          "notes": "Added BMS integration and Tier IV compliance requirement per client request"
+        }
+      ],
+      "review_count": 1,
+      "last_review_date": "2025-11-22"
+    }
+  }
+}

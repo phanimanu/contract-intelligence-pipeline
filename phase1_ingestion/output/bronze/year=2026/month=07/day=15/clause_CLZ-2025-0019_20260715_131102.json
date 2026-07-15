@@ -1,0 +1,29 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.579926",
+  "source_file": "clauses_batch_2.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0019",
+    "contract_id": "CTR-4460",
+    "client_name": "Lakeshore Regional Medical Center",
+    "project_name": "LRMC Emergency Department Renovation",
+    "category": "indemnification",
+    "clause_text": "Each party shall indemnify the other party from claims arising from its own negligent acts or omissions. Neither party shall be required to indemnify the other for the other party's negligence. The duty to defend shall run concurrently with the duty to indemnify.",
+    "section_ref": "Section 7.1",
+    "effective_date": "2026-01-15",
+    "expiration_date": "2028-12-31",
+    "status": "draft",
+    "last_modified": "2025-12-01T10:00:00Z",
+    "review_history": {
+      "reviews": [
+        {
+          "reviewer": "K. Chen",
+          "date": "2025-12-01",
+          "action": "approved",
+          "notes": "Mutual indemnification \u00e2\u20ac\u201d favorable terms"
+        }
+      ],
+      "review_count": 1,
+      "last_review_date": "2025-12-01"
+    }
+  }
+}

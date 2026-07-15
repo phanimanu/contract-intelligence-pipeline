@@ -1,0 +1,18 @@
+{
+  "ingested_at": "2026-07-15T13:11:02.552735",
+  "source_file": "clauses_batch_1.json",
+  "raw_payload": {
+    "clause_id": "CLZ-2025-0007",
+    "contract_id": "CTR-4438",
+    "client_name": "DataVault Technologies",
+    "project_name": "DV Southeast Data Center Campus",
+    "clause_type": "indemnification",
+    "clause_text": "The Consultant shall indemnify and hold harmless the Owner from all claims arising from the Consultant's negligent acts, errors, or omissions in the performance of professional services. This indemnification shall not extend to claims arising from the Owner's sole negligence.",
+    "section_ref": "Section 7.1",
+    "effective_date": "2025-10-01",
+    "expiration_date": "2028-09-30",
+    "status": "active",
+    "last_modified": "2025-10-05T16:45:00Z",
+    "modified_by": "legal_team"
+  }
+}

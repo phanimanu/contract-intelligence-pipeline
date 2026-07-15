@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-07-15T13:11:02.577917",
+  "file_processed": "clauses_batch_2.json",
+  "api_version_baseline": "str",
+  "api_version_current": "2.3",
+  "drift_summary": {
+    "added_fields": [
+      "clauses[].review_history"
+    ],
+    "removed_fields": [
+      "clauses[].modified_by"
+    ],
+    "type_changed_fields": [],
+    "renamed_fields": [
+      {
+        "from": "clauses[].clause_type",
+        "to": "clauses[].category"
+      }
+    ]
+  }
+}
